@@ -1,2 +1,3 @@
-# startpage
-my startpage for firefox 
+# Startpage
+My startpage for firefox 
+[Source](https://github.com/PrettyCoffee/yet-another-generic-startpage)
