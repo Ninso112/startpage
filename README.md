@@ -1,4 +1,10 @@
 # Startpage
+ _   _ _                 
+| \ | (_)_ __  ___  ___  
+|  \| | | '_ \/ __|/ _ \ 
+| |\  | | | | \__ \ (_) |
+|_| \_|_|_| |_|___/\___/ 
+
 My startpage for firefox 
 
 [Source](https://github.com/PrettyCoffee/yet-another-generic-startpage)
