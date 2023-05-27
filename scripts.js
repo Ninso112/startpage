@@ -8,7 +8,7 @@
 const searchInput = document.querySelector("#searchbar > input")
 const searchButton = document.querySelector("#searchbar > button")
 
-const lookup = {"/":"/","reto":"https://www.twitch.tv/retoxan","drive":"https://drive.google.com/drive/my-drive","twitch":"https://www.twitch.tv/?lang=de","github":"https://github.com/","deepl":"https://deepl.com/","reddit":"https://reddit.com/","maps":"https://maps.google.com/"}
+const lookup = {"amazon":"https://www.amazon.de/","reto":"https://www.twitch.tv/retoxan","drive":"https://drive.google.com/drive/my-drive","twitch":"https://www.twitch.tv/?lang=de","github":"https://github.com/","deepl":"https://deepl.com/","reddit":"https://reddit.com/","maps":"https://maps.google.com/"}
 const engine = "google"
 const engineUrls = {
   deepl: "https://www.deepl.com/translator#-/-/",
@@ -20,7 +20,8 @@ const engineUrls = {
   github: "https://github.com/",
   twitch: "https://www.twitch.tv/?lang=de",
   drive: "https://drive.google.com/drive/my-drive",
-  reto: "https://www.twitch.tv/retoxan"
+  reto: "https://www.twitch.tv/retoxan",
+  amazon: "https://www.amazon.de/"
 }
 
 const isWebUrl = value => {
