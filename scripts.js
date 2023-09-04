@@ -21,6 +21,8 @@ const engineUrls = {
   twitch: "https://www.twitch.tv/?lang=de",
   drive: "https://drive.google.com/drive/my-drive",
   reto: "https://www.twitch.tv/retoxan",
+  plex: "https://app.plex.tv/desktop/#!/"
+  pih: "http://192.168.178.79/admin/login.php"
   amazon: "https://www.amazon.de/"
 }
 
