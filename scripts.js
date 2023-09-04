@@ -8,7 +8,7 @@
 const searchInput = document.querySelector("#searchbar > input")
 const searchButton = document.querySelector("#searchbar > button")
 
-const lookup = {"etsy":"https://www.etsy.com/","pih":"http://192.168.178.79/admin/login.php","amazon":"https://www.amazon.de/","reto":"https://www.twitch.tv/retoxan","drive":"https://drive.google.com/drive/my-drive","twitch":"https://www.twitch.tv/?lang=de","github":"https://github.com/","deepl":"https://deepl.com/","reddit":"https://reddit.com/","maps":"https://maps.google.com/"}
+const lookup = {"etsy":"https://www.etsy.com/","pih":"pi.hole","amazon":"https://www.amazon.de/","reto":"https://www.twitch.tv/retoxan","drive":"https://drive.google.com/drive/my-drive","twitch":"https://www.twitch.tv/?lang=de","github":"https://github.com/","deepl":"https://deepl.com/","reddit":"https://reddit.com/","maps":"https://maps.google.com/"}
 const engine = "google"
 const engineUrls = {
   deepl: "https://www.deepl.com/translator#-/-/",
