@@ -15,13 +15,13 @@
   --color-secondary-bg: #25394C;
   --color-secondary-base: #4A7197;
   --color-secondary-fg: #8BA9C6;
-  --color-palette-red: #E06C75;
-  --color-palette-green: #98C379;
-  --color-palette-yellow: #E5C07B;
-  --color-palette-blue: #61AFEF;
-  --color-palette-purple: #C678DD;
-  --color-palette-cyan: #56B6C2;
-  --color-palette-orange: #FFBB7C;
+  --color-palette-red: #BF616A;
+  --color-palette-green: #A3BE8C;
+  --color-palette-yellow: #EBCB8B;
+  --color-palette-blue: #5E81AC;
+  --color-palette-purple: #B48EAD;
+  --color-palette-cyan: #88C0D0;
+  --color-palette-orange: #D08770;
   
   /** general */
   --font-family: Quicksand;
